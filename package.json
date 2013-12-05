@@ -1,0 +1,31 @@
+{
+  "name": "temcom",
+  "homepage": "http://github.com/skyzhou/temcom",
+  "author": {
+    "name": "skyzhou",
+    "url": "http://github.com/skyzhou"
+  },
+  "bin": {
+    "temcom": "./temcom.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/skyzhou/temcom.git"
+  },
+  "description": "Simple template compiler to  compress html string into a variable",
+  "keywords": [
+    "template",
+    "html",
+    "compiler",
+    "auto"
+  ],
+  "version": "0.9.5",
+  "preferGlobal": "true",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://rem.mit-license.org"
+    }
+  ],
+  "main": "./temcom"
+}
